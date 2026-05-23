@@ -1,7 +1,7 @@
 ### CSS DISPLAY BLOCK
 <p>Defination:</p>
 <p>By-Default 
-<p>The Block Elements is nothing but it takes the fll width of the screen and whenever a new element appear it goes to the nextline</p>
+<p>The Block Elements is nothing but it takes the full width of the screen and whenever a new elements are  appear it goes to the nextline</p>
 <p>Refer the corresponding code file to understand things</p> <br>
 <p>E.g:
    <b>div,p,header,footer</b></p>
